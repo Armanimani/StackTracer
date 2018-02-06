@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StackTracer", "StackTracer.vcxproj", "{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Debug|x64.ActiveCfg = Debug|x64
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Debug|x64.Build.0 = Debug|x64
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Debug|x86.ActiveCfg = Debug|Win32
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Debug|x86.Build.0 = Debug|Win32
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Release|x64.ActiveCfg = Release|x64
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Release|x64.Build.0 = Release|x64
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Release|x86.ActiveCfg = Release|Win32
+		{34932EDC-FA3C-4E51-93C7-4282D3EE3F51}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0927820-C0E7-4678-82E4-FAEA60CEEE2B}
+	EndGlobalSection
+EndGlobal
